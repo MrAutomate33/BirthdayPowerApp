@@ -18,4 +18,4 @@ This responsive app can be placed on any SharePoint page, in Microsoft Teams and
 4. Don't forget to share and publish the app!
 
 ## Notes
-Max 999 users
+Max 999 users.
