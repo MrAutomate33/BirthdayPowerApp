@@ -9,8 +9,10 @@ This responsive app can be placed on any SharePoint page, in Microsoft Teams and
   
 ## Connections in use
 * Office 365 Users
+* Office 365 Groups
 
 ## Setup
 1. Please download the [BirthdayPowerApp.zip](/../../raw/main/BirthdayPowerApp.zip).
 2. Follow the rest of the instrunctions at [docs.microsoft.com](https://docs.microsoft.com/power-apps/maker/canvas-apps/export-import-app#importing-a-canvas-app-package).
+3. Go to the App Onstart settings and set your desired group of users in `Var_GroupGuid`. Change the date notation if necessary in `Var_EnvironmentDateNotation`.
 4. Don't forget to share and publish the app!
