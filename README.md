@@ -1,9 +1,10 @@
 # Power Apps - Birthday
-Celebrate the birthday of your colleague! Use it as an app, in teams or embed it in your SharePoint page
+Celebrate the birthday of your colleague! Use it as an app, in teams or embed it in your SharePoint page.
+Send the person a Teams message when it's his/her birthday.
 
 ## General
 Users can opt-in for this app by adding their birthday in their Office365 profile.
-This responsive app can be placed on any SharePoint page, in Microsoft Teams and is also for mobile. Expand the app with your own desires, modify the app with the power of Power Apps and show the information and/or filters you want.
+This responsive app can be placed on any SharePoint page, in Microsoft Teams and is also suited for mobile use. Expand the app with your own desires, modify the app with the power of Power Apps and show the information and/or filters you want.
 
 <img src="/AppPreview1.png?raw=true" height="400">
   
