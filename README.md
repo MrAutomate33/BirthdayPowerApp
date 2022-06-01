@@ -20,3 +20,6 @@ This responsive app can be placed on any SharePoint page, in Microsoft Teams and
 
 ## Notes
 Max 999 users.
+
+## Disclaimer
+*This code is provided as is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.*
