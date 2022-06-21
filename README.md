@@ -1,4 +1,4 @@
-# Power Apps - Birthday
+# Power Apps - Birthday (Lite)
 Celebrate the birthday of your colleague! Use it as an app, in teams or embed it in your SharePoint page to show upcoming birthdays.
 Send the person a Teams message when it's his/her birthday.
 
